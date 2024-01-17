@@ -1,4 +1,4 @@
-[### (https://api.roadmap.sh/v1-badge/tall/6463fba1410780a6d9b65277?variant=dark)](https://api.roadmap.sh/v1-badge/tall/6463fba1410780a6d9b65277?variant=dark)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6463fba1410780a6d9b65277?variant=dark)](https://roadmap.sh)
 
 <!--
 **Mordorrrrrr/Mordorrrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
