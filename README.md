@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,react,redux,ts,nextjs,nodejs,express,electron,mysql,mongodb,firebase,git,vscode,visualstudio,npm,regex,vite,postman,heroku,jest,wordpress,github,discordjs,cloudflare,linux&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,react,redux,ts,nextjs,nodejs,express,electron,mysql,mongodb,firebase,git,vscode,visualstudio,npm,regex,vite,postman,heroku,jest,wordpress,github,discordjs,cloudflare,linux&perline=10)](https://skillicons.dev)
 
 <img src='https://www.codewars.com/users/Mordorrr/badges/large'>
 <a href="https://stackoverflow.com/users/19511737/mordor"><img src="https://stackoverflow.com/users/flair/19511737.png" width="208" height="58" alt="profile for Mordor at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mordor at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
